@@ -1,41 +1,40 @@
-![Shabbir Ahmed. Full-stack development. From interface to deployment.](banner-v2.png)
+![Shabbir Ahmed — Ideas to interfaces. Code to production.](hero-v3.png)
 
 <p align="center">
-  <a href="https://personal-portfolio-one-mu-20.vercel.app/"><b>Portfolio</b></a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/m-shabbir-ahmed-a0649928a/"><b>LinkedIn</b></a> &nbsp; · &nbsp;
-  <a href="mailto:shabbirahmed.devv@gmail.com"><b>Get in touch</b></a>
+<a href="https://personal-portfolio-one-mu-20.vercel.app/"><img alt="View portfolio" src="https://img.shields.io/badge/VIEW_PORTFOLIO-A984F5?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/m-shabbir-ahmed-a0649928a/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-22283B?style=for-the-badge" /></a>&nbsp;
+<a href="mailto:shabbirahmed.devv@gmail.com"><img alt="Let's talk" src="https://img.shields.io/badge/LET'S_TALK-22283B?style=for-the-badge" /></a>
 </p>
 
-## About
+### Building beyond the frontend.
 
-I'm Shabbir, a **full-stack developer** building business applications, backend APIs, and database-driven systems. I work across the application lifecycle—from the interface and data model to deployment and server management.
+I'm **Shabbir Ahmed**, a full-stack developer working across **web applications, backend APIs, databases, and server deployment**. I build CRMs, reporting portals, and data-processing tools—and handle the Linux, Nginx, and PM2 setup that brings them online.
 
-My projects include **CRMs, reporting portals, and lead-processing tools**, using PostgreSQL and MongoDB alongside React and Node.js. I also configure Linux servers, Nginx reverse proxies, and PM2 deployments.
+**Available for freelance projects and full-stack / backend roles.**
 
-**Open to freelance collaborations and full-stack or backend roles.**
+## Selected builds
 
-## Selected work
+| [![VoIP Portal — shift reports, audit trails and CSV exports. React, Express, PostgreSQL.](voip-card.png)](https://github.com/shabbir28/Voip-Portal) | [![BLA Checker — lead verification and batch processing. PostgreSQL, Node.js, Nginx.](bla-card.png)](https://github.com/shabbir28/BLA_Checker) |
+| :---: | :---: |
+| [![Balitech CRM — lead workflows and data processing. Express and PostgreSQL.](crm-card.png)](https://github.com/shabbir28/Balitech-crm) | [![Builder Bricks — properties, leads and sales pipelines. React, Express, MongoDB.](estate-card.png)](https://github.com/shabbir28/Builder-Bricks-CRM) |
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[VoIP Portal](https://github.com/shabbir28/Voip-Portal)** | Shift-based spend reporting with audit history, transactional updates, and CSV exports. | React · Express · PostgreSQL |
-| **[BLA Checker](https://github.com/shabbir28/BLA_Checker)** | Lead verification, local DNC matching, API integration, and batch exports. Includes server deployment configuration. | PostgreSQL · Node.js · Nginx · PM2 |
-| **[Balitech CRM](https://github.com/shabbir28/Balitech-crm)** | Business workflows, lead-data processing, database migrations, and CSV/XLSX exports. | Express · PostgreSQL · JavaScript |
-| **[Builder Bricks CRM](https://github.com/shabbir28/Builder-Bricks-CRM)** | Real-estate lead management, property listings, and sales pipelines. | React · Express · MongoDB |
+<p align="center"><a href="https://github.com/shabbir28/project-sync">Project Sync</a> &nbsp; / &nbsp; <a href="https://modern-ui-sepia.vercel.app/">Frontend showcase</a> &nbsp; / &nbsp; <a href="https://github.com/shabbir28?tab=repositories">Explore all repositories →</a></p>
 
-[Project Sync](https://github.com/shabbir28/project-sync) &nbsp; / &nbsp; [Frontend showcase](https://modern-ui-sepia.vercel.app/) &nbsp; / &nbsp; [More repositories →](https://github.com/shabbir28?tab=repositories)
+## My toolkit
 
-## Tools I work with
+**Interfaces**  
+`React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
 
-**Frontend** &nbsp; `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS`
+**APIs & databases**  
+`Node.js` `Express` `REST APIs` `PostgreSQL` `MongoDB`
 
-**Backend & data** &nbsp; `Node.js` `Express` `PostgreSQL` `MongoDB` `REST APIs`
+**Deployment & servers**  
+`Linux / Ubuntu` `Nginx` `PM2` `Vercel` `Git`
 
-**Deployment** &nbsp; `Linux / Ubuntu` `Nginx` `PM2` `Vercel` `Git`
+---
 
-## Work with me
+### Have something worth building?
 
-For a project, share the problem you want to solve, the scope, and your timeline. For a role, I'd be glad to discuss how my application, backend, and deployment experience fits your team.
+Let's talk about your next product, business tool, or developer role.
 
-**[shabbirahmed.devv@gmail.com](mailto:shabbirahmed.devv@gmail.com)** &nbsp; · &nbsp; [Connect on LinkedIn](https://www.linkedin.com/in/m-shabbir-ahmed-a0649928a/)
-
+**[Start a conversation →](mailto:shabbirahmed.devv@gmail.com)** &nbsp; · &nbsp; [View my portfolio](https://personal-portfolio-one-mu-20.vercel.app/)
